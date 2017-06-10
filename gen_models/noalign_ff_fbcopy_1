@@ -1,0 +1,40 @@
+/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7 -s /Users/lucas/Documents/Development/schoolwork/cs231a/proj/face_recognization.py ../selfies_fb_copy
+Reading Andrew_Zhang
+Reading Helen_Jiang
+Reading Kush_Khosla
+Reading Lucas_Lin
+done reading images
+extracted features
+created model
+2017-06-09 20:11:24,683 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 1/6.
+2017-06-09 20:11:24,807 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Andrew_Zhang and obtained Kush_Khosla
+2017-06-09 20:11:24,807 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Helen_Jiang and obtained Helen_Jiang
+2017-06-09 20:11:24,808 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Kush_Khosla and obtained Kush_Khosla
+2017-06-09 20:11:24,808 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Lucas_Lin and obtained Lucas_Lin
+2017-06-09 20:11:24,809 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 2/6.
+2017-06-09 20:11:24,920 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Andrew_Zhang and obtained Kush_Khosla
+2017-06-09 20:11:24,920 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Helen_Jiang and obtained Kush_Khosla
+2017-06-09 20:11:24,921 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Kush_Khosla and obtained Kush_Khosla
+2017-06-09 20:11:24,922 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Lucas_Lin and obtained Lucas_Lin
+2017-06-09 20:11:24,922 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 3/6.
+2017-06-09 20:11:25,036 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Andrew_Zhang and obtained Kush_Khosla
+2017-06-09 20:11:25,037 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Helen_Jiang and obtained Helen_Jiang
+2017-06-09 20:11:25,038 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Kush_Khosla and obtained Kush_Khosla
+2017-06-09 20:11:25,039 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Lucas_Lin and obtained Kush_Khosla
+2017-06-09 20:11:25,039 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 4/6.
+2017-06-09 20:11:25,156 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Andrew_Zhang and obtained Kush_Khosla
+2017-06-09 20:11:25,157 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Helen_Jiang and obtained Helen_Jiang
+2017-06-09 20:11:25,157 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Kush_Khosla and obtained Kush_Khosla
+2017-06-09 20:11:25,158 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Lucas_Lin and obtained Kush_Khosla
+2017-06-09 20:11:25,158 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 5/6.
+2017-06-09 20:11:25,269 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Andrew_Zhang and obtained Kush_Khosla
+2017-06-09 20:11:25,270 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Helen_Jiang and obtained Kush_Khosla
+2017-06-09 20:11:25,271 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Kush_Khosla and obtained Kush_Khosla
+2017-06-09 20:11:25,271 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Lucas_Lin and obtained Lucas_Lin
+2017-06-09 20:11:25,271 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 6/6.
+2017-06-09 20:11:25,383 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Andrew_Zhang and obtained Kush_Khosla
+2017-06-09 20:11:25,383 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Helen_Jiang and obtained Helen_Jiang
+2017-06-09 20:11:25,384 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Kush_Khosla and obtained Lucas_Lin
+2017-06-09 20:11:25,384 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Lucas_Lin and obtained Lucas_Lin
+PredictableModel (feature=Fisherfaces (num_components=3), classifier=NearestNeighbor (k=1, dist_metric=EuclideanDistance))
+ValidationResult (Description=ExperimentName, Precision=54.17%, Accuracy=54.17%)

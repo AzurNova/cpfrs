@@ -1,0 +1,609 @@
+/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7 -s /Users/lucas/Documents/Development/schoolwork/cs231a/proj/face_recognization.py ../fei_faces
+Reading 1
+Reading 10
+Reading 100
+Reading 101
+Reading 102
+Reading 103
+Reading 104
+Reading 105
+Reading 106
+Reading 107
+Reading 108
+Reading 109
+Reading 11
+Reading 110
+Reading 111
+Reading 112
+Reading 113
+Reading 114
+Reading 115
+Reading 116
+Reading 117
+Reading 118
+Reading 119
+Reading 12
+Reading 120
+Reading 121
+Reading 122
+Reading 123
+Reading 124
+Reading 125
+Reading 126
+Reading 127
+Reading 128
+Reading 129
+Reading 13
+Reading 130
+Reading 131
+Reading 132
+Reading 133
+Reading 134
+Reading 135
+Reading 136
+Reading 137
+Reading 138
+Reading 139
+Reading 14
+Reading 140
+Reading 141
+Reading 142
+Reading 143
+Reading 144
+Reading 145
+Reading 146
+Reading 147
+Reading 148
+Reading 149
+Reading 15
+Reading 150
+Reading 151
+Reading 152
+Reading 153
+Reading 154
+Reading 155
+Reading 156
+Reading 157
+Reading 158
+Reading 159
+Reading 16
+Reading 160
+Reading 161
+Reading 162
+Reading 163
+Reading 164
+Reading 165
+Reading 166
+Reading 167
+Reading 168
+Reading 169
+Reading 17
+Reading 170
+Reading 171
+Reading 172
+Reading 173
+Reading 174
+Reading 175
+Reading 176
+Reading 177
+Reading 178
+Reading 179
+Reading 18
+Reading 180
+Reading 181
+Reading 182
+Reading 183
+Reading 184
+Reading 185
+Reading 186
+Reading 187
+Reading 188
+Reading 189
+Reading 19
+Reading 190
+Reading 191
+Reading 192
+Reading 193
+Reading 194
+Reading 195
+Reading 196
+Reading 197
+Reading 198
+Reading 199
+Reading 2
+Reading 20
+Reading 200
+Reading 21
+Reading 22
+Reading 23
+Reading 24
+Reading 25
+Reading 26
+Reading 27
+Reading 28
+Reading 29
+Reading 3
+Reading 30
+Reading 31
+Reading 32
+Reading 33
+Reading 34
+Reading 35
+Reading 36
+Reading 37
+Reading 38
+Reading 39
+Reading 4
+Reading 40
+Reading 41
+Reading 42
+Reading 43
+Reading 44
+Reading 45
+Reading 46
+Reading 47
+Reading 48
+Reading 49
+Reading 5
+Reading 50
+Reading 51
+Reading 52
+Reading 53
+Reading 54
+Reading 55
+Reading 56
+Reading 57
+Reading 58
+Reading 59
+Reading 6
+Reading 60
+Reading 61
+Reading 62
+Reading 63
+Reading 64
+Reading 65
+Reading 66
+Reading 67
+Reading 68
+Reading 69
+Reading 7
+Reading 70
+Reading 71
+Reading 72
+Reading 73
+Reading 74
+Reading 75
+Reading 76
+Reading 77
+Reading 78
+Reading 79
+Reading 8
+Reading 80
+Reading 81
+Reading 82
+Reading 83
+Reading 84
+Reading 85
+Reading 86
+Reading 87
+Reading 88
+Reading 89
+Reading 9
+Reading 90
+Reading 91
+Reading 92
+Reading 93
+Reading 94
+Reading 95
+Reading 96
+Reading 97
+Reading 98
+Reading 99
+200 people. Averaging 2.0 faces.
+done reading images
+extracted features
+created model
+2017-06-09 21:03:36,644 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 1/2.
+2017-06-09 21:03:40,042 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 1 and obtained 94
+2017-06-09 21:03:40,093 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 10 and obtained 10
+2017-06-09 21:03:40,144 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 100 and obtained 99
+2017-06-09 21:03:40,195 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 101 and obtained 146
+2017-06-09 21:03:40,246 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 102 and obtained 173
+2017-06-09 21:03:40,297 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 103 and obtained 103
+2017-06-09 21:03:40,349 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 104 and obtained 103
+2017-06-09 21:03:40,400 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 105 and obtained 184
+2017-06-09 21:03:40,451 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 106 and obtained 106
+2017-06-09 21:03:40,505 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 107 and obtained 107
+2017-06-09 21:03:40,557 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 108 and obtained 42
+2017-06-09 21:03:40,609 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 109 and obtained 109
+2017-06-09 21:03:40,661 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 11 and obtained 11
+2017-06-09 21:03:40,713 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 110 and obtained 110
+2017-06-09 21:03:40,765 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 111 and obtained 111
+2017-06-09 21:03:40,816 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 112 and obtained 112
+2017-06-09 21:03:40,868 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 113 and obtained 113
+2017-06-09 21:03:40,919 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 114 and obtained 114
+2017-06-09 21:03:40,971 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 115 and obtained 127
+2017-06-09 21:03:41,027 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 116 and obtained 116
+2017-06-09 21:03:41,081 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 117 and obtained 117
+2017-06-09 21:03:41,135 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 118 and obtained 118
+2017-06-09 21:03:41,191 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 119 and obtained 119
+2017-06-09 21:03:41,242 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 12 and obtained 12
+2017-06-09 21:03:41,294 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 120 and obtained 16
+2017-06-09 21:03:41,347 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 121 and obtained 187
+2017-06-09 21:03:41,399 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 122 and obtained 79
+2017-06-09 21:03:41,451 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 123 and obtained 123
+2017-06-09 21:03:41,503 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 124 and obtained 74
+2017-06-09 21:03:41,554 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 125 and obtained 58
+2017-06-09 21:03:41,606 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 126 and obtained 157
+2017-06-09 21:03:41,658 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 127 and obtained 121
+2017-06-09 21:03:41,710 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 128 and obtained 123
+2017-06-09 21:03:41,762 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 129 and obtained 99
+2017-06-09 21:03:41,815 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 13 and obtained 13
+2017-06-09 21:03:41,866 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 130 and obtained 127
+2017-06-09 21:03:41,918 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 131 and obtained 196
+2017-06-09 21:03:41,970 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 132 and obtained 132
+2017-06-09 21:03:42,028 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 133 and obtained 133
+2017-06-09 21:03:42,081 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 134 and obtained 134
+2017-06-09 21:03:42,133 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 135 and obtained 146
+2017-06-09 21:03:42,184 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 136 and obtained 136
+2017-06-09 21:03:42,235 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 137 and obtained 137
+2017-06-09 21:03:42,286 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 138 and obtained 78
+2017-06-09 21:03:42,338 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 139 and obtained 167
+2017-06-09 21:03:42,389 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 14 and obtained 14
+2017-06-09 21:03:42,440 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 140 and obtained 140
+2017-06-09 21:03:42,491 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 141 and obtained 199
+2017-06-09 21:03:42,545 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 142 and obtained 142
+2017-06-09 21:03:42,596 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 143 and obtained 143
+2017-06-09 21:03:42,647 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 144 and obtained 86
+2017-06-09 21:03:42,698 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 145 and obtained 145
+2017-06-09 21:03:42,750 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 146 and obtained 146
+2017-06-09 21:03:42,802 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 147 and obtained 147
+2017-06-09 21:03:42,853 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 148 and obtained 148
+2017-06-09 21:03:42,904 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 149 and obtained 149
+2017-06-09 21:03:42,955 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 15 and obtained 15
+2017-06-09 21:03:43,006 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 150 and obtained 135
+2017-06-09 21:03:43,064 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 151 and obtained 151
+2017-06-09 21:03:43,115 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 152 and obtained 152
+2017-06-09 21:03:43,166 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 153 and obtained 153
+2017-06-09 21:03:43,218 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 154 and obtained 154
+2017-06-09 21:03:43,270 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 155 and obtained 155
+2017-06-09 21:03:43,325 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 156 and obtained 78
+2017-06-09 21:03:43,377 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 157 and obtained 85
+2017-06-09 21:03:43,428 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 158 and obtained 129
+2017-06-09 21:03:43,479 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 159 and obtained 159
+2017-06-09 21:03:43,530 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 16 and obtained 16
+2017-06-09 21:03:43,583 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 160 and obtained 160
+2017-06-09 21:03:43,637 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 161 and obtained 161
+2017-06-09 21:03:43,688 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 162 and obtained 162
+2017-06-09 21:03:43,739 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 163 and obtained 63
+2017-06-09 21:03:43,792 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 164 and obtained 164
+2017-06-09 21:03:43,843 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 165 and obtained 16
+2017-06-09 21:03:43,894 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 166 and obtained 43
+2017-06-09 21:03:43,945 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 167 and obtained 170
+2017-06-09 21:03:43,997 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 168 and obtained 168
+2017-06-09 21:03:44,055 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 169 and obtained 65
+2017-06-09 21:03:44,106 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 17 and obtained 17
+2017-06-09 21:03:44,157 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 170 and obtained 167
+2017-06-09 21:03:44,208 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 171 and obtained 89
+2017-06-09 21:03:44,259 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 172 and obtained 37
+2017-06-09 21:03:44,311 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 173 and obtained 173
+2017-06-09 21:03:44,362 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 174 and obtained 123
+2017-06-09 21:03:44,416 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 175 and obtained 175
+2017-06-09 21:03:44,472 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 176 and obtained 133
+2017-06-09 21:03:44,525 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 177 and obtained 177
+2017-06-09 21:03:44,577 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 178 and obtained 178
+2017-06-09 21:03:44,629 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 179 and obtained 179
+2017-06-09 21:03:44,682 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 18 and obtained 18
+2017-06-09 21:03:44,734 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 180 and obtained 165
+2017-06-09 21:03:44,786 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 181 and obtained 181
+2017-06-09 21:03:44,838 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 182 and obtained 44
+2017-06-09 21:03:44,890 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 183 and obtained 183
+2017-06-09 21:03:44,941 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 184 and obtained 184
+2017-06-09 21:03:44,993 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 185 and obtained 185
+2017-06-09 21:03:45,052 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 186 and obtained 186
+2017-06-09 21:03:45,105 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 187 and obtained 187
+2017-06-09 21:03:45,157 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 188 and obtained 16
+2017-06-09 21:03:45,210 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 189 and obtained 184
+2017-06-09 21:03:45,261 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 19 and obtained 19
+2017-06-09 21:03:45,312 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 190 and obtained 116
+2017-06-09 21:03:45,364 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 191 and obtained 191
+2017-06-09 21:03:45,415 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 192 and obtained 192
+2017-06-09 21:03:45,467 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 193 and obtained 54
+2017-06-09 21:03:45,518 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 194 and obtained 45
+2017-06-09 21:03:45,574 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 195 and obtained 37
+2017-06-09 21:03:45,627 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 196 and obtained 20
+2017-06-09 21:03:45,680 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 197 and obtained 28
+2017-06-09 21:03:45,732 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 198 and obtained 39
+2017-06-09 21:03:45,784 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 199 and obtained 199
+2017-06-09 21:03:45,835 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 2 and obtained 2
+2017-06-09 21:03:45,886 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 20 and obtained 3
+2017-06-09 21:03:45,937 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 200 and obtained 127
+2017-06-09 21:03:45,990 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 21 and obtained 21
+2017-06-09 21:03:46,049 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 22 and obtained 116
+2017-06-09 21:03:46,102 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 23 and obtained 23
+2017-06-09 21:03:46,153 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 24 and obtained 24
+2017-06-09 21:03:46,203 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 25 and obtained 25
+2017-06-09 21:03:46,254 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 26 and obtained 26
+2017-06-09 21:03:46,306 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 27 and obtained 27
+2017-06-09 21:03:46,357 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 28 and obtained 28
+2017-06-09 21:03:46,410 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 29 and obtained 10
+2017-06-09 21:03:46,462 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 3 and obtained 3
+2017-06-09 21:03:46,513 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 30 and obtained 30
+2017-06-09 21:03:46,565 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 31 and obtained 27
+2017-06-09 21:03:46,615 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 32 and obtained 32
+2017-06-09 21:03:46,666 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 33 and obtained 33
+2017-06-09 21:03:46,717 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 34 and obtained 34
+2017-06-09 21:03:46,768 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 35 and obtained 35
+2017-06-09 21:03:46,820 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 36 and obtained 36
+2017-06-09 21:03:46,873 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 37 and obtained 37
+2017-06-09 21:03:46,928 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 38 and obtained 142
+2017-06-09 21:03:46,980 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 39 and obtained 198
+2017-06-09 21:03:47,036 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 4 and obtained 4
+2017-06-09 21:03:47,088 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 40 and obtained 118
+2017-06-09 21:03:47,139 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 41 and obtained 94
+2017-06-09 21:03:47,190 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 42 and obtained 108
+2017-06-09 21:03:47,241 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 43 and obtained 43
+2017-06-09 21:03:47,292 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 44 and obtained 44
+2017-06-09 21:03:47,343 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 45 and obtained 74
+2017-06-09 21:03:47,397 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 46 and obtained 46
+2017-06-09 21:03:47,448 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 47 and obtained 116
+2017-06-09 21:03:47,499 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 48 and obtained 10
+2017-06-09 21:03:47,550 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 49 and obtained 49
+2017-06-09 21:03:47,603 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 5 and obtained 5
+2017-06-09 21:03:47,654 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 50 and obtained 66
+2017-06-09 21:03:47,705 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 51 and obtained 78
+2017-06-09 21:03:47,757 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 52 and obtained 40
+2017-06-09 21:03:47,809 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 53 and obtained 107
+2017-06-09 21:03:47,859 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 54 and obtained 108
+2017-06-09 21:03:47,912 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 55 and obtained 55
+2017-06-09 21:03:47,963 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 56 and obtained 56
+2017-06-09 21:03:48,014 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 57 and obtained 57
+2017-06-09 21:03:48,074 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 58 and obtained 58
+2017-06-09 21:03:48,125 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 59 and obtained 59
+2017-06-09 21:03:48,177 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 6 and obtained 61
+2017-06-09 21:03:48,228 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 60 and obtained 140
+2017-06-09 21:03:48,279 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 61 and obtained 61
+2017-06-09 21:03:48,331 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 62 and obtained 187
+2017-06-09 21:03:48,384 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 63 and obtained 63
+2017-06-09 21:03:48,434 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 64 and obtained 16
+2017-06-09 21:03:48,490 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 65 and obtained 153
+2017-06-09 21:03:48,544 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 66 and obtained 130
+2017-06-09 21:03:48,595 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 67 and obtained 193
+2017-06-09 21:03:48,646 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 68 and obtained 73
+2017-06-09 21:03:48,697 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 69 and obtained 51
+2017-06-09 21:03:48,748 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 7 and obtained 7
+2017-06-09 21:03:48,799 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 70 and obtained 194
+2017-06-09 21:03:48,850 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 71 and obtained 71
+2017-06-09 21:03:48,901 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 72 and obtained 51
+2017-06-09 21:03:48,952 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 73 and obtained 94
+2017-06-09 21:03:49,003 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 74 and obtained 70
+2017-06-09 21:03:49,060 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 75 and obtained 75
+2017-06-09 21:03:49,111 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 76 and obtained 76
+2017-06-09 21:03:49,161 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 77 and obtained 77
+2017-06-09 21:03:49,213 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 78 and obtained 79
+2017-06-09 21:03:49,265 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 79 and obtained 125
+2017-06-09 21:03:49,319 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 8 and obtained 8
+2017-06-09 21:03:49,375 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 80 and obtained 94
+2017-06-09 21:03:49,427 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 81 and obtained 95
+2017-06-09 21:03:49,477 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 82 and obtained 82
+2017-06-09 21:03:49,528 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 83 and obtained 138
+2017-06-09 21:03:49,580 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 84 and obtained 84
+2017-06-09 21:03:49,631 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 85 and obtained 121
+2017-06-09 21:03:49,682 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 86 and obtained 86
+2017-06-09 21:03:49,734 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 87 and obtained 87
+2017-06-09 21:03:49,785 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 88 and obtained 88
+2017-06-09 21:03:49,836 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 89 and obtained 127
+2017-06-09 21:03:49,887 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 9 and obtained 9
+2017-06-09 21:03:49,940 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 90 and obtained 90
+2017-06-09 21:03:49,990 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 91 and obtained 92
+2017-06-09 21:03:50,047 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 92 and obtained 67
+2017-06-09 21:03:50,099 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 93 and obtained 93
+2017-06-09 21:03:50,151 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 94 and obtained 94
+2017-06-09 21:03:50,203 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 95 and obtained 22
+2017-06-09 21:03:50,255 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 96 and obtained 184
+2017-06-09 21:03:50,306 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 97 and obtained 150
+2017-06-09 21:03:50,359 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 98 and obtained 98
+2017-06-09 21:03:50,413 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 99 and obtained 129
+2017-06-09 21:03:50,413 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 2/2.
+2017-06-09 21:03:53,822 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 1 and obtained 133
+2017-06-09 21:03:53,873 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 10 and obtained 10
+2017-06-09 21:03:53,924 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 100 and obtained 164
+2017-06-09 21:03:53,975 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 101 and obtained 98
+2017-06-09 21:03:54,030 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 102 and obtained 181
+2017-06-09 21:03:54,082 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 103 and obtained 103
+2017-06-09 21:03:54,132 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 104 and obtained 104
+2017-06-09 21:03:54,183 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 105 and obtained 101
+2017-06-09 21:03:54,234 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 106 and obtained 106
+2017-06-09 21:03:54,288 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 107 and obtained 107
+2017-06-09 21:03:54,342 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 108 and obtained 42
+2017-06-09 21:03:54,393 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 109 and obtained 109
+2017-06-09 21:03:54,444 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 11 and obtained 11
+2017-06-09 21:03:54,495 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 110 and obtained 110
+2017-06-09 21:03:54,546 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 111 and obtained 111
+2017-06-09 21:03:54,596 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 112 and obtained 95
+2017-06-09 21:03:54,648 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 113 and obtained 113
+2017-06-09 21:03:54,699 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 114 and obtained 114
+2017-06-09 21:03:54,750 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 115 and obtained 115
+2017-06-09 21:03:54,801 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 116 and obtained 116
+2017-06-09 21:03:54,853 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 117 and obtained 117
+2017-06-09 21:03:54,904 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 118 and obtained 118
+2017-06-09 21:03:54,955 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 119 and obtained 119
+2017-06-09 21:03:55,006 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 12 and obtained 12
+2017-06-09 21:03:55,061 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 120 and obtained 74
+2017-06-09 21:03:55,112 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 121 and obtained 85
+2017-06-09 21:03:55,163 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 122 and obtained 108
+2017-06-09 21:03:55,215 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 123 and obtained 123
+2017-06-09 21:03:55,266 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 124 and obtained 74
+2017-06-09 21:03:55,317 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 125 and obtained 79
+2017-06-09 21:03:55,371 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 126 and obtained 157
+2017-06-09 21:03:55,424 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 127 and obtained 200
+2017-06-09 21:03:55,476 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 128 and obtained 39
+2017-06-09 21:03:55,528 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 129 and obtained 158
+2017-06-09 21:03:55,580 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 13 and obtained 13
+2017-06-09 21:03:55,633 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 130 and obtained 127
+2017-06-09 21:03:55,684 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 131 and obtained 153
+2017-06-09 21:03:55,735 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 132 and obtained 132
+2017-06-09 21:03:55,786 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 133 and obtained 133
+2017-06-09 21:03:55,839 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 134 and obtained 103
+2017-06-09 21:03:55,894 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 135 and obtained 150
+2017-06-09 21:03:55,950 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 136 and obtained 136
+2017-06-09 21:03:56,000 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 137 and obtained 136
+2017-06-09 21:03:56,058 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 138 and obtained 142
+2017-06-09 21:03:56,109 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 139 and obtained 160
+2017-06-09 21:03:56,160 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 14 and obtained 14
+2017-06-09 21:03:56,211 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 140 and obtained 140
+2017-06-09 21:03:56,262 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 141 and obtained 16
+2017-06-09 21:03:56,313 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 142 and obtained 142
+2017-06-09 21:03:56,365 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 143 and obtained 143
+2017-06-09 21:03:56,418 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 144 and obtained 144
+2017-06-09 21:03:56,470 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 145 and obtained 145
+2017-06-09 21:03:56,521 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 146 and obtained 101
+2017-06-09 21:03:56,572 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 147 and obtained 16
+2017-06-09 21:03:56,623 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 148 and obtained 148
+2017-06-09 21:03:56,675 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 149 and obtained 149
+2017-06-09 21:03:56,728 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 15 and obtained 54
+2017-06-09 21:03:56,784 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 150 and obtained 142
+2017-06-09 21:03:56,835 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 151 and obtained 151
+2017-06-09 21:03:56,887 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 152 and obtained 152
+2017-06-09 21:03:56,938 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 153 and obtained 153
+2017-06-09 21:03:56,989 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 154 and obtained 154
+2017-06-09 21:03:57,044 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 155 and obtained 155
+2017-06-09 21:03:57,095 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 156 and obtained 156
+2017-06-09 21:03:57,146 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 157 and obtained 126
+2017-06-09 21:03:57,197 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 158 and obtained 158
+2017-06-09 21:03:57,248 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 159 and obtained 159
+2017-06-09 21:03:57,299 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 16 and obtained 16
+2017-06-09 21:03:57,352 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 160 and obtained 160
+2017-06-09 21:03:57,403 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 161 and obtained 161
+2017-06-09 21:03:57,454 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 162 and obtained 162
+2017-06-09 21:03:57,505 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 163 and obtained 163
+2017-06-09 21:03:57,557 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 164 and obtained 164
+2017-06-09 21:03:57,611 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 165 and obtained 185
+2017-06-09 21:03:57,663 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 166 and obtained 43
+2017-06-09 21:03:57,714 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 167 and obtained 170
+2017-06-09 21:03:57,766 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 168 and obtained 168
+2017-06-09 21:03:57,818 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 169 and obtained 169
+2017-06-09 21:03:57,870 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 17 and obtained 17
+2017-06-09 21:03:57,921 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 170 and obtained 167
+2017-06-09 21:03:57,974 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 171 and obtained 95
+2017-06-09 21:03:58,030 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 172 and obtained 101
+2017-06-09 21:03:58,082 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 173 and obtained 142
+2017-06-09 21:03:58,134 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 174 and obtained 79
+2017-06-09 21:03:58,185 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 175 and obtained 175
+2017-06-09 21:03:58,236 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 176 and obtained 15
+2017-06-09 21:03:58,288 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 177 and obtained 177
+2017-06-09 21:03:58,341 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 178 and obtained 178
+2017-06-09 21:03:58,398 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 179 and obtained 179
+2017-06-09 21:03:58,449 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 18 and obtained 18
+2017-06-09 21:03:58,500 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 180 and obtained 120
+2017-06-09 21:03:58,551 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 181 and obtained 142
+2017-06-09 21:03:58,604 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 182 and obtained 182
+2017-06-09 21:03:58,654 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 183 and obtained 183
+2017-06-09 21:03:58,705 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 184 and obtained 184
+2017-06-09 21:03:58,757 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 185 and obtained 185
+2017-06-09 21:03:58,807 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 186 and obtained 186
+2017-06-09 21:03:58,859 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 187 and obtained 187
+2017-06-09 21:03:58,909 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 188 and obtained 16
+2017-06-09 21:03:58,961 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 189 and obtained 189
+2017-06-09 21:03:59,011 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 19 and obtained 19
+2017-06-09 21:03:59,066 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 190 and obtained 74
+2017-06-09 21:03:59,117 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 191 and obtained 191
+2017-06-09 21:03:59,170 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 192 and obtained 192
+2017-06-09 21:03:59,223 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 193 and obtained 185
+2017-06-09 21:03:59,275 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 194 and obtained 194
+2017-06-09 21:03:59,325 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 195 and obtained 178
+2017-06-09 21:03:59,380 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 196 and obtained 131
+2017-06-09 21:03:59,431 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 197 and obtained 102
+2017-06-09 21:03:59,482 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 198 and obtained 39
+2017-06-09 21:03:59,533 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 199 and obtained 136
+2017-06-09 21:03:59,584 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 2 and obtained 2
+2017-06-09 21:03:59,636 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 20 and obtained 153
+2017-06-09 21:03:59,687 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 200 and obtained 152
+2017-06-09 21:03:59,739 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 21 and obtained 21
+2017-06-09 21:03:59,789 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 22 and obtained 95
+2017-06-09 21:03:59,840 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 23 and obtained 23
+2017-06-09 21:03:59,893 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 24 and obtained 24
+2017-06-09 21:03:59,944 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 25 and obtained 25
+2017-06-09 21:03:59,995 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 26 and obtained 26
+2017-06-09 21:04:00,052 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 27 and obtained 31
+2017-06-09 21:04:00,105 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 28 and obtained 28
+2017-06-09 21:04:00,157 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 29 and obtained 10
+2017-06-09 21:04:00,209 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 3 and obtained 3
+2017-06-09 21:04:00,262 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 30 and obtained 30
+2017-06-09 21:04:00,315 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 31 and obtained 95
+2017-06-09 21:04:00,368 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 32 and obtained 32
+2017-06-09 21:04:00,420 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 33 and obtained 33
+2017-06-09 21:04:00,472 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 34 and obtained 34
+2017-06-09 21:04:00,524 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 35 and obtained 35
+2017-06-09 21:04:00,575 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 36 and obtained 95
+2017-06-09 21:04:00,628 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 37 and obtained 37
+2017-06-09 21:04:00,680 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 38 and obtained 18
+2017-06-09 21:04:00,734 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 39 and obtained 101
+2017-06-09 21:04:00,788 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 4 and obtained 4
+2017-06-09 21:04:00,843 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 40 and obtained 109
+2017-06-09 21:04:00,894 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 41 and obtained 10
+2017-06-09 21:04:00,946 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 42 and obtained 42
+2017-06-09 21:04:00,997 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 43 and obtained 43
+2017-06-09 21:04:01,052 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 44 and obtained 44
+2017-06-09 21:04:01,104 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 45 and obtained 95
+2017-06-09 21:04:01,156 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 46 and obtained 46
+2017-06-09 21:04:01,208 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 47 and obtained 153
+2017-06-09 21:04:01,259 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 48 and obtained 48
+2017-06-09 21:04:01,310 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 49 and obtained 49
+2017-06-09 21:04:01,367 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 5 and obtained 5
+2017-06-09 21:04:01,420 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 50 and obtained 18
+2017-06-09 21:04:01,471 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 51 and obtained 69
+2017-06-09 21:04:01,523 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 52 and obtained 77
+2017-06-09 21:04:01,574 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 53 and obtained 53
+2017-06-09 21:04:01,630 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 54 and obtained 193
+2017-06-09 21:04:01,686 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 55 and obtained 55
+2017-06-09 21:04:01,737 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 56 and obtained 56
+2017-06-09 21:04:01,789 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 57 and obtained 90
+2017-06-09 21:04:01,841 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 58 and obtained 125
+2017-06-09 21:04:01,892 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 59 and obtained 59
+2017-06-09 21:04:01,943 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 6 and obtained 10
+2017-06-09 21:04:01,994 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 60 and obtained 167
+2017-06-09 21:04:02,050 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 61 and obtained 35
+2017-06-09 21:04:02,102 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 62 and obtained 62
+2017-06-09 21:04:02,153 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 63 and obtained 63
+2017-06-09 21:04:02,204 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 64 and obtained 7
+2017-06-09 21:04:02,254 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 65 and obtained 153
+2017-06-09 21:04:02,306 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 66 and obtained 1
+2017-06-09 21:04:02,360 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 67 and obtained 92
+2017-06-09 21:04:02,413 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 68 and obtained 74
+2017-06-09 21:04:02,464 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 69 and obtained 159
+2017-06-09 21:04:02,515 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 7 and obtained 14
+2017-06-09 21:04:02,566 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 70 and obtained 74
+2017-06-09 21:04:02,617 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 71 and obtained 71
+2017-06-09 21:04:02,669 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 72 and obtained 72
+2017-06-09 21:04:02,721 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 73 and obtained 71
+2017-06-09 21:04:02,772 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 74 and obtained 45
+2017-06-09 21:04:02,824 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 75 and obtained 75
+2017-06-09 21:04:02,876 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 76 and obtained 76
+2017-06-09 21:04:02,928 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 77 and obtained 77
+2017-06-09 21:04:02,980 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 78 and obtained 123
+2017-06-09 21:04:03,035 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 79 and obtained 125
+2017-06-09 21:04:03,087 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 8 and obtained 8
+2017-06-09 21:04:03,138 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 80 and obtained 65
+2017-06-09 21:04:03,190 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 81 and obtained 152
+2017-06-09 21:04:03,244 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 82 and obtained 74
+2017-06-09 21:04:03,296 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 83 and obtained 18
+2017-06-09 21:04:03,346 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 84 and obtained 84
+2017-06-09 21:04:03,398 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 85 and obtained 157
+2017-06-09 21:04:03,449 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 86 and obtained 86
+2017-06-09 21:04:03,501 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 87 and obtained 87
+2017-06-09 21:04:03,551 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 88 and obtained 88
+2017-06-09 21:04:03,602 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 89 and obtained 171
+2017-06-09 21:04:03,653 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 9 and obtained 9
+2017-06-09 21:04:03,704 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 90 and obtained 90
+2017-06-09 21:04:03,755 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 91 and obtained 127
+2017-06-09 21:04:03,805 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 92 and obtained 67
+2017-06-09 21:04:03,857 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 93 and obtained 130
+2017-06-09 21:04:03,908 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 94 and obtained 80
+2017-06-09 21:04:03,959 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 95 and obtained 81
+2017-06-09 21:04:04,010 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 96 and obtained 101
+2017-06-09 21:04:04,072 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 97 and obtained 79
+2017-06-09 21:04:04,126 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected 98 and obtained 98
+2017-06-09 21:04:04,177 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected 99 and obtained 129
+PredictableModel (feature=ChainOperator(LBPPreprocessing (lbp_operator=ExtendedLBP (neighbors=8, radius=1)),SpatialHistogram (operator=ExtendedLBP (neighbors=8, radius=1), grid=(8, 8))), classifier=NearestNeighbor (k=1, dist_metric=EuclideanDistance))
+ValidationResult (Description=ExperimentName, Precision=52.75%, Accuracy=52.75%)

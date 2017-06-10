@@ -1,0 +1,35 @@
+/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7 -s /Users/lucas/Documents/Development/schoolwork/cs231a/proj/face_recognization.py ../facebook/facebook_hard
+Reading Andrew_Zhang
+Reading Helen_Jiang
+Reading Kush_Khosla
+Reading Lucas_Lin
+done reading images
+extracted features
+created model
+2017-06-09 19:52:16,624 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 1/5.
+2017-06-09 19:52:16,709 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Andrew_Zhang and obtained Andrew_Zhang
+2017-06-09 19:52:16,710 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Helen_Jiang and obtained Andrew_Zhang
+2017-06-09 19:52:16,710 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Kush_Khosla and obtained Kush_Khosla
+2017-06-09 19:52:16,711 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Lucas_Lin and obtained Andrew_Zhang
+2017-06-09 19:52:16,711 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 2/5.
+2017-06-09 19:52:16,797 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Andrew_Zhang and obtained Helen_Jiang
+2017-06-09 19:52:16,798 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Helen_Jiang and obtained Andrew_Zhang
+2017-06-09 19:52:16,798 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Kush_Khosla and obtained Andrew_Zhang
+2017-06-09 19:52:16,799 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Lucas_Lin and obtained Andrew_Zhang
+2017-06-09 19:52:16,799 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 3/5.
+2017-06-09 19:52:16,885 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Andrew_Zhang and obtained Helen_Jiang
+2017-06-09 19:52:16,886 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Helen_Jiang and obtained Helen_Jiang
+2017-06-09 19:52:16,886 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Kush_Khosla and obtained Kush_Khosla
+2017-06-09 19:52:16,887 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Lucas_Lin and obtained Kush_Khosla
+2017-06-09 19:52:16,887 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 4/5.
+2017-06-09 19:52:16,971 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Andrew_Zhang and obtained Kush_Khosla
+2017-06-09 19:52:16,972 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Helen_Jiang and obtained Helen_Jiang
+2017-06-09 19:52:16,972 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Kush_Khosla and obtained Kush_Khosla
+2017-06-09 19:52:16,973 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Lucas_Lin and obtained Lucas_Lin
+2017-06-09 19:52:16,973 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 5/5.
+2017-06-09 19:52:17,061 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Andrew_Zhang and obtained Lucas_Lin
+2017-06-09 19:52:17,062 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Helen_Jiang and obtained Helen_Jiang
+2017-06-09 19:52:17,062 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Kush_Khosla and obtained Kush_Khosla
+2017-06-09 19:52:17,063 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Lucas_Lin and obtained Andrew_Zhang
+PredictableModel (feature=Fisherfaces (num_components=3), classifier=NearestNeighbor (k=1, dist_metric=EuclideanDistance))
+ValidationResult (Description=ExperimentName, Precision=45.00%, Accuracy=45.00%)

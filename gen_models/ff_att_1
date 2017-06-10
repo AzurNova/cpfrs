@@ -1,0 +1,13 @@
+/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7 -s /Users/lucas/Documents/Development/schoolwork/cs231a/proj/old_face_recognization.py ../att_faces
+2017-06-09 20:16:31,043 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 1/10.
+2017-06-09 20:16:33,160 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 2/10.
+2017-06-09 20:16:35,242 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 3/10.
+2017-06-09 20:16:37,357 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 4/10.
+2017-06-09 20:16:39,476 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 5/10.
+2017-06-09 20:16:41,578 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 6/10.
+2017-06-09 20:16:43,686 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 7/10.
+2017-06-09 20:16:45,792 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 8/10.
+2017-06-09 20:16:47,919 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 9/10.
+2017-06-09 20:16:50,021 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 10/10.
+PredictableModel (feature=Fisherfaces (num_components=39), classifier=NearestNeighbor (k=1, dist_metric=EuclideanDistance))
+ValidationResult (Description=ExperimentName, Precision=95.25%, Accuracy=95.25%)

@@ -1,0 +1,120 @@
+/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7 -s /Users/lucas/Documents/Development/schoolwork/cs231a/proj/face_recognization.py ../selfies_medium
+Reading Amber_Wollam
+Reading Andrew_Zhang
+Reading Calvin_Lin
+Reading Caroline_Young
+Reading Cindy_Jiang
+Reading Connie_Xiao
+Reading Crystal_Zhang
+Reading Daniel_Parra
+Reading Helen_Jiang
+Reading Jessica_Guo
+Reading Jonathan_Lin
+Reading Kush_Khosla
+Reading Leena_Yin
+Reading Lucas_Lin
+Reading Miguel_Ayala
+Reading Ryan_Gonzalez
+Reading Sydney_Hutton
+Reading Tori_Testa
+18 people. Averaging 10.5 faces.
+done reading images
+extracted features
+created model
+2017-06-09 21:52:52,433 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 1/5.
+2017-06-09 21:52:53,632 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Amber_Wollam and obtained Amber_Wollam
+2017-06-09 21:52:53,661 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Andrew_Zhang and obtained Andrew_Zhang
+2017-06-09 21:52:53,692 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Calvin_Lin and obtained Calvin_Lin
+2017-06-09 21:52:53,724 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Caroline_Young and obtained Caroline_Young
+2017-06-09 21:52:53,754 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Cindy_Jiang and obtained Cindy_Jiang
+2017-06-09 21:52:53,785 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Connie_Xiao and obtained Connie_Xiao
+2017-06-09 21:52:53,818 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Crystal_Zhang and obtained Crystal_Zhang
+2017-06-09 21:52:53,850 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Daniel_Parra and obtained Daniel_Parra
+2017-06-09 21:52:53,879 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Helen_Jiang and obtained Helen_Jiang
+2017-06-09 21:52:53,909 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Jessica_Guo and obtained Jessica_Guo
+2017-06-09 21:52:53,939 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Jonathan_Lin and obtained Jonathan_Lin
+2017-06-09 21:52:53,971 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Kush_Khosla and obtained Kush_Khosla
+2017-06-09 21:52:54,000 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Leena_Yin and obtained Leena_Yin
+2017-06-09 21:52:54,028 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Lucas_Lin and obtained Lucas_Lin
+2017-06-09 21:52:54,057 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Miguel_Ayala and obtained Miguel_Ayala
+2017-06-09 21:52:54,086 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Ryan_Gonzalez and obtained Calvin_Lin
+2017-06-09 21:52:54,115 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Sydney_Hutton and obtained Jonathan_Lin
+2017-06-09 21:52:54,144 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Tori_Testa and obtained Tori_Testa
+2017-06-09 21:52:54,144 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 2/5.
+2017-06-09 21:52:55,564 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Amber_Wollam and obtained Amber_Wollam
+2017-06-09 21:52:55,594 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Andrew_Zhang and obtained Andrew_Zhang
+2017-06-09 21:52:55,624 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Calvin_Lin and obtained Calvin_Lin
+2017-06-09 21:52:55,654 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Caroline_Young and obtained Caroline_Young
+2017-06-09 21:52:55,685 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Cindy_Jiang and obtained Caroline_Young
+2017-06-09 21:52:55,720 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Connie_Xiao and obtained Connie_Xiao
+2017-06-09 21:52:55,759 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Crystal_Zhang and obtained Crystal_Zhang
+2017-06-09 21:52:55,796 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Daniel_Parra and obtained Daniel_Parra
+2017-06-09 21:52:55,834 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Helen_Jiang and obtained Helen_Jiang
+2017-06-09 21:52:55,870 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Jessica_Guo and obtained Jessica_Guo
+2017-06-09 21:52:55,901 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Jonathan_Lin and obtained Jonathan_Lin
+2017-06-09 21:52:55,933 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Kush_Khosla and obtained Kush_Khosla
+2017-06-09 21:52:55,971 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Leena_Yin and obtained Leena_Yin
+2017-06-09 21:52:56,001 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Lucas_Lin and obtained Lucas_Lin
+2017-06-09 21:52:56,033 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Miguel_Ayala and obtained Miguel_Ayala
+2017-06-09 21:52:56,065 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Ryan_Gonzalez and obtained Ryan_Gonzalez
+2017-06-09 21:52:56,096 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Sydney_Hutton and obtained Sydney_Hutton
+2017-06-09 21:52:56,125 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Tori_Testa and obtained Tori_Testa
+2017-06-09 21:52:56,125 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 3/5.
+2017-06-09 21:52:57,443 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Amber_Wollam and obtained Amber_Wollam
+2017-06-09 21:52:57,472 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Andrew_Zhang and obtained Andrew_Zhang
+2017-06-09 21:52:57,502 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Calvin_Lin and obtained Calvin_Lin
+2017-06-09 21:52:57,535 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Caroline_Young and obtained Caroline_Young
+2017-06-09 21:52:57,569 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Cindy_Jiang and obtained Cindy_Jiang
+2017-06-09 21:52:57,607 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Connie_Xiao and obtained Connie_Xiao
+2017-06-09 21:52:57,644 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Crystal_Zhang and obtained Crystal_Zhang
+2017-06-09 21:52:57,679 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Daniel_Parra and obtained Daniel_Parra
+2017-06-09 21:52:57,712 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Helen_Jiang and obtained Helen_Jiang
+2017-06-09 21:52:57,743 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Jessica_Guo and obtained Jessica_Guo
+2017-06-09 21:52:57,773 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Jonathan_Lin and obtained Jonathan_Lin
+2017-06-09 21:52:57,807 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Kush_Khosla and obtained Kush_Khosla
+2017-06-09 21:52:57,840 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Leena_Yin and obtained Leena_Yin
+2017-06-09 21:52:57,871 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Lucas_Lin and obtained Lucas_Lin
+2017-06-09 21:52:57,904 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Miguel_Ayala and obtained Miguel_Ayala
+2017-06-09 21:52:57,940 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Ryan_Gonzalez and obtained Ryan_Gonzalez
+2017-06-09 21:52:57,978 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Sydney_Hutton and obtained Calvin_Lin
+2017-06-09 21:52:58,011 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Tori_Testa and obtained Tori_Testa
+2017-06-09 21:52:58,011 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 4/5.
+2017-06-09 21:52:59,250 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Amber_Wollam and obtained Amber_Wollam
+2017-06-09 21:52:59,281 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Andrew_Zhang and obtained Andrew_Zhang
+2017-06-09 21:52:59,311 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Calvin_Lin and obtained Calvin_Lin
+2017-06-09 21:52:59,341 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Caroline_Young and obtained Caroline_Young
+2017-06-09 21:52:59,371 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Cindy_Jiang and obtained Miguel_Ayala
+2017-06-09 21:52:59,402 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Connie_Xiao and obtained Connie_Xiao
+2017-06-09 21:52:59,433 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Crystal_Zhang and obtained Crystal_Zhang
+2017-06-09 21:52:59,467 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Daniel_Parra and obtained Daniel_Parra
+2017-06-09 21:52:59,498 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Helen_Jiang and obtained Calvin_Lin
+2017-06-09 21:52:59,531 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Jessica_Guo and obtained Jessica_Guo
+2017-06-09 21:52:59,563 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Jonathan_Lin and obtained Jonathan_Lin
+2017-06-09 21:52:59,594 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Kush_Khosla and obtained Kush_Khosla
+2017-06-09 21:52:59,623 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Leena_Yin and obtained Leena_Yin
+2017-06-09 21:52:59,653 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Lucas_Lin and obtained Lucas_Lin
+2017-06-09 21:52:59,685 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Miguel_Ayala and obtained Miguel_Ayala
+2017-06-09 21:52:59,716 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Ryan_Gonzalez and obtained Ryan_Gonzalez
+2017-06-09 21:52:59,747 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Sydney_Hutton and obtained Sydney_Hutton
+2017-06-09 21:52:59,777 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Tori_Testa and obtained Tori_Testa
+2017-06-09 21:52:59,778 - facerec.validation.KFoldCrossValidation - INFO - Processing fold 5/5.
+2017-06-09 21:53:01,041 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Amber_Wollam and obtained Amber_Wollam
+2017-06-09 21:53:01,071 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Andrew_Zhang and obtained Andrew_Zhang
+2017-06-09 21:53:01,102 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Calvin_Lin and obtained Calvin_Lin
+2017-06-09 21:53:01,132 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Caroline_Young and obtained Caroline_Young
+2017-06-09 21:53:01,162 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Cindy_Jiang and obtained Sydney_Hutton
+2017-06-09 21:53:01,192 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Connie_Xiao and obtained Connie_Xiao
+2017-06-09 21:53:01,223 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Crystal_Zhang and obtained Crystal_Zhang
+2017-06-09 21:53:01,253 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Daniel_Parra and obtained Jonathan_Lin
+2017-06-09 21:53:01,283 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Helen_Jiang and obtained Helen_Jiang
+2017-06-09 21:53:01,312 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Jessica_Guo and obtained Jessica_Guo
+2017-06-09 21:53:01,342 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Jonathan_Lin and obtained Jonathan_Lin
+2017-06-09 21:53:01,371 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Kush_Khosla and obtained Kush_Khosla
+2017-06-09 21:53:01,401 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Leena_Yin and obtained Leena_Yin
+2017-06-09 21:53:01,433 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Lucas_Lin and obtained Lucas_Lin
+2017-06-09 21:53:01,464 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Miguel_Ayala and obtained Miguel_Ayala
+2017-06-09 21:53:01,494 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Ryan_Gonzalez and obtained Daniel_Parra
+2017-06-09 21:53:01,524 - facerec.validation.KFoldCrossValidation - INFO - Success: Expected Sydney_Hutton and obtained Sydney_Hutton
+2017-06-09 21:53:01,555 - facerec.validation.KFoldCrossValidation - INFO -    Fail: Expected Tori_Testa and obtained Cindy_Jiang
+PredictableModel (feature=ChainOperator(LBPPreprocessing (lbp_operator=ExtendedLBP (neighbors=8, radius=1)),SpatialHistogram (operator=ExtendedLBP (neighbors=8, radius=1), grid=(8, 8))), classifier=NearestNeighbor (k=1, dist_metric=EuclideanDistance))
+ValidationResult (Description=ExperimentName, Precision=88.89%, Accuracy=88.89%)
